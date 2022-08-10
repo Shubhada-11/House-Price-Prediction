@@ -9,15 +9,8 @@ The company is looking at prospective properties to buy to enter the market. We 
 -  Best model is ridge regression with alpha = 0.03 having subset features 4 as input. It is also noted that the accuracy can further be improved by further reducing the features with cross validation and advance feature selection techniques
 
 
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
-
 ## Contact
-Created by [@Shubhada-11] - feel free to contact me!
+Created by [@Shubhada-11] 
 
 
 <!-- Optional -->
